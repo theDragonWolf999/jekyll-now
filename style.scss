@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $black;
   font: 18px/1.4 $helveticaNeue;
-  color: $black;
+  color: $red;
 }
 
 .container {
@@ -123,7 +123,7 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $black;
 }
 ::selection {
   color: $black;

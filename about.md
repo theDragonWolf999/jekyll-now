@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-<iframe width="800" height="500" src="http://ncase.me/simulating/model/?local=zoo/schelling&edit=1&paused=1">
+<iframe width="800" height="520" src="http://ncase.me/simulating/model/?remote=-Kx2ev5eSO1uBWlZ-Dfr" frameborder="0"></iframe>

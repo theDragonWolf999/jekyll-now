@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<iframe width="800" height="500" src="http://ncase.me/simulating/model/?local=zoo/schelling&edit=1&paused=1">

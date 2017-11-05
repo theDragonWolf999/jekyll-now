@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-image: url(http://workcompass.com/wp-content/uploads/2015/03/wh_wc_29-870x350.jpg)
+<img src="http://workcompass.com/wp-content/uploads/2015/03/wh_wc_29-870x350.jpg" alt="Comics!">
+
+

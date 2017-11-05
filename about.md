@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-<iframe width="800" height="520" src="http://ncase.me/simulating/model/?remote=-Kx2ev5eSO1uBWlZ-Dfr" frameborder="0"></iframe>
+url(http://workcompass.com/wp-content/uploads/2015/03/wh_wc_29-870x350.jpg)

@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-url(http://workcompass.com/wp-content/uploads/2015/03/wh_wc_29-870x350.jpg)
+image: url(http://workcompass.com/wp-content/uploads/2015/03/wh_wc_29-870x350.jpg)

@@ -297,8 +297,8 @@ width: 100%;
 }
 
 table, th, td {
-border: 1px solid #000000;
-background-color:#84ffd4;
+border: 1px solid #ff0000;
+background-color: $black;
 
 }
 
@@ -308,8 +308,8 @@ padding: 10px;
 }	
 
 th {
-color: #000000;
-background: #15c19f;
+color: #ff0000;
+background: $black;
 height: 50px;
 vertical-align: middle;
 }

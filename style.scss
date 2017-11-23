@@ -27,6 +27,8 @@ iframe[seamless] {
 
 body {
 	background-image: url("http://i.imgur.com/i0jqxNQ.jpg");
+	background-position: right top;
+	background-attachment: fixed;
   font: 18px/1.4 $helveticaNeue;
   color: #ff0000;
 }

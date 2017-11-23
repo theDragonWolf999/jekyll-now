@@ -32,13 +32,10 @@ body {
 }
 
 .container {
-  border-radius: 25px;
-    background: url(paper.gif);
-    background-position: left top;
-    background-repeat: repeat;
-    padding: 20px; 
-    width: 200px;
-    height: 150px
+ margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {

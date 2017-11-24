@@ -29,7 +29,7 @@ body {
 	background-image: url("https://orig00.deviantart.net/1106/f/2015/178/7/c/splatoon_minimalistic_wallaper_by_someelixer-d8yzk0e.jpg");
 	background-attachment: fixed;
   font: 18px/1.4 $helveticaNeue;
-  color: #ffa500;
+  color: $black;
 }
 
 .container {
@@ -43,7 +43,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #ffa500;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #ffa500;
+    color: $black;
   }
 }
 
@@ -72,7 +72,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #ffa500;
+  color: $black;
 }
 
 p {
@@ -128,7 +128,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #ffffff;
+  color: $black;
 }
 
 // Specify the color of the selection

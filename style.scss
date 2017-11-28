@@ -286,7 +286,7 @@ width: 100%;
 
 table, th, td {
 border: none;
-background: #ffaf05; /* For browsers that do not support gradients */    
+background: $black; /* For browsers that do not support gradients */    
     background: -webkit-linear-gradient(left top, #ffaf05, #ffd105); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right, #ffaf05, #ffd105); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(bottom right, #ffaf05, #ffd105); /* For Firefox 3.6 to 15 */

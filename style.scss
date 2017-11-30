@@ -286,18 +286,18 @@ width: 100%;
 
 table, th, td {
 border: none;
-background: #ffd105;
+background: #ffaf05; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, #ffb302, #f7e600); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #ffb302, #f7e600); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #ffb302, #f7e600); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #ffb302, #f7e600); /* Standard syntax (must be last) */;
+border-radius: 10px
 }
 
 td {
 vertical-align: middle; 
 padding: 10px;
 color: $black;
-background: #ffaf05; /* For browsers that do not support gradients */    
-    background: -webkit-linear-gradient(left top, #ffaf05, #f7e600); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(bottom right, #ffaf05, #f7e600); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(bottom right, #ffaf05, #f7e600); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, #ffaf05, #f7e600); /* Standard syntax (must be last) */;
 border-radius: 5px;
 }	
 
@@ -306,6 +306,7 @@ color: $black;
 background: #ffd105;
 height: 50px;
 vertical-align: middle;
+border-radius: 5px
 }
 
 

@@ -2,7 +2,7 @@
 title: Starting Again with Python 3
 layout: post
 author: mika.stalley
-permalink: /itb---starting-again-with-python-3/
+permalink: /starting-again-with-python-3/
 tags:
 - python
 source-id: 1aRihVnwxxeTviVfYIVr4J9HOtgESZVbbRb3iPO_gnH0

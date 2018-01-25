@@ -1,5 +1,5 @@
 ---
-title: ITB - Starting Again with Python 3
+title: Starting Again with Python 3
 layout: post
 author: mika.stalley
 permalink: /itb---starting-again-with-python-3/

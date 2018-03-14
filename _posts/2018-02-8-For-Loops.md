@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>For Loops</td>
     <td>Date</td>
-    <td>1/3/18</td>
+    <td>8/2/18</td>
   </tr>
 </table>
 

@@ -10,7 +10,6 @@ I AM A HUUUUUUUMAN!
 
 <img src="http://workcompass.com/wp-content/uploads/2015/03/wh_wc_29-870x350.jpg" alt="Comics!">
 
-<style> 
 div {
     width: 100px;
     height: 100px;
@@ -39,5 +38,4 @@ div {
     75%  {background-color:green; left:0px; top:200px;}
     100% {background-color:red; left:0px; top:0px;}
 }
-</style>
 

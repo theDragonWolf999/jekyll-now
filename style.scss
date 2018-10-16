@@ -35,7 +35,7 @@ body {
 .topbit {
  margin: 10 auto;
   padding: 0 20px;
-  width: 80%;
+  width: 100%;
   background: rgba(224, 30, 0, 0.9);
 }
 
@@ -174,7 +174,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 0px solid $lightGray;
 
   @include mobile {
     text-align: center;

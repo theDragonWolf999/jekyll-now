@@ -32,18 +32,11 @@ body {
   color: $black;
 }
 
-.topbit {
- margin: 0 auto;
-  padding: 0 5px;
-  width: 100%;
-  background: rgba(224, 30, 0, 0.9);
-}
-
 .container {
  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+  max-width: 1080px;
+  padding: 0 15px;
+  width: auto;
   border-radius: 25px;
   background: rgba(224, 30, 0, 0.7);  
 }

@@ -109,6 +109,14 @@ ul ul, ol ul {
   list-style-type: upper-roman;
 }
 
+hr {
+  border: 1;
+  width: 50%;
+  color: #ff00ff;
+  background-color: #0000ff;
+  height: 5px;
+}
+
 em, i {
   font-style: italic;
 }
